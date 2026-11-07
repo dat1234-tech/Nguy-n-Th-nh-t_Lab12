@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>Lab12.DTO</RootNamespace>
+    <AssemblyName>Lab12.DTO</AssemblyName>
+  </PropertyGroup>
+</Project>

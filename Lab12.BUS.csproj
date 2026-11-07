@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>Lab12.BUS</RootNamespace>
+    <AssemblyName>Lab12.BUS</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lab12.DTO\Lab12.DTO.csproj" />
+    <ProjectReference Include="..\Lab12.DAL\Lab12.DAL.csproj" />
+  </ItemGroup>
+</Project>
